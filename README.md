@@ -4,7 +4,7 @@ Spider King MathTool Windows7 Version
 Hey Guys!  Welcome to the Math World!  
 This is a mathematical tool developed in Python that uses PyQt5 for Windows7 compatibility.  
 ## It integrates:  
-Windows built-in computer  
+Windows built-in calculator  
 GeoGebra  
 Microsoft Math Solver  
 Number Empire  
