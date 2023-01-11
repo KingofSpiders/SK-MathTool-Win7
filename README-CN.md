@@ -14,7 +14,7 @@ GeoGebra
 简体中文  
 繁体中文  
 英语  
-日本  
+日语  
 
 ## 下载：
 ### 中国大陆（GFW墙以内/无代理）：[123云盘](https://www.123pan.com/s/vl70Vv-Nja7H)
