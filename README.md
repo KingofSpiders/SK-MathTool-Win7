@@ -2,7 +2,7 @@
 Spider King MathTool Windows7 Version  
   
 简体中文版本请点击[这里](https://github.com/KingofSpiders/SK-MathTool-Win7/blob/main/README-CN.md)  
-繁體中文版本請點擊[這裏](https://github.com/KingofSpiders/SK-MathTool-Win7/blob/main/README-TRCN.md)
+繁體中文版本請點擊[這裏](https://github.com/KingofSpiders/SK-MathTool-Win7/blob/main/README-TRCN.md)  
 日本語版はこ[ちらです](https://github.com/KingofSpiders/SK-MathTool-Win7/blob/main/README-JP.md)
   
 Hey Guys!  Welcome to the Math World!  
